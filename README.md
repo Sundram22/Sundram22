@@ -10,7 +10,7 @@
 ### 🌟 **About Me**
 🔹 Passionate **Data Scientist** who loves working with **Python, SQL, Machine Learning, and Deep Learning**.  
 🔹 Experienced in **Data Analysis, Predictive Modeling, and AI Development**.  
-🔹 Contributor to Open-Source projects & writing blogs on **Data Science & AI**.  
+🔹 Contributor to making videos , Open-Source projects & writing blogs on **Data Science & AI**.  
 🔹 Building intelligent systems that solve **real-world problems**.  
 
 ---
