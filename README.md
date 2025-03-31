@@ -64,3 +64,15 @@
   </a>
 </p>
 
+
+
+## 📚 My Teaching Playlists  
+🎥 **Python for Beginners** → [Watch Now](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)  
+🎥 **Machine Learning Algorithms** → [Watch Now](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)  
+🎥 **Deep Learning Crash Course** → [Watch Now](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
