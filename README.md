@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm [Sundram Tiwari]!</h1>
+<h1 align="center">Hey 👋, I'm Sundram Tiwari! </h1>
 <h3 align="center">🚀 Data Scientist | AI Enthusiast | ML & Deep Learning Expert</h3>
 
 <p align="center">
