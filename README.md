@@ -31,7 +31,7 @@
 ---
 
 ### 🚀 **Featured Projects**
-📊 **[Amazon Prime Movies Analysis](https://github.com/Sundram22/blinkitdash)**  
+📊 **[Blinkit Data Analysis Dashboard](https://github.com/Sundram22/blinkitdash)**  
 🔍 **Exploratory Data Analysis (EDA) & Power BI Dashboard on Amazon Prime Dataset**  
 
 🤖 **[Customer Segmentation using ML](https://github.com/Sundram22/motosalessql)**  
