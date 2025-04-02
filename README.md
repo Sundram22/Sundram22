@@ -31,13 +31,13 @@
 ---
 
 ### 🚀 **Featured Projects**
-📊 **[Amazon Prime Movies Analysis](https://github.com/yourusername/amazon-prime-analysis)**  
+📊 **[Amazon Prime Movies Analysis](https://github.com/Sundram22/blinkitdash)**  
 🔍 **Exploratory Data Analysis (EDA) & Power BI Dashboard on Amazon Prime Dataset**  
 
-🤖 **[Customer Segmentation using ML](https://github.com/yourusername/customer-segmentation)**  
+🤖 **[Customer Segmentation using ML](https://github.com/Sundram22/motosalessql)**  
 🧠 **Using K-Means Clustering to analyze customer spending behavior**  
 
-📢 **[Sentiment Analysis on YouTube Comments](https://github.com/yourusername/youtube-comments-sentiment)**  
+📢 **[Sentiment Analysis on YouTube Comments](https://github.com/Sundram22/advertising-sales-prediction)**  
 🔬 **Natural Language Processing (NLP) model to classify YouTube comments as positive or negative**  
 
 ---
