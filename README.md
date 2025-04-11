@@ -13,7 +13,7 @@
 🔹 Contributor to making videos , Open-Source projects & writing blogs on **Data Science & AI**.  
 🔹 Building intelligent systems that solve **real-world problems**.  
 
-![sundram](https://github.com/user-attachments/assets/6c009fe7-1668-4ff3-b549-693553504773)
+
 
 
 ---
